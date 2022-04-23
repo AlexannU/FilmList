@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FilmList</string>
+    <string name="film_name">Название фильма</string>
+    <string name="film_description">Здесь находится описание фильма, достаточно небольшой текст, так как описание короткое</string>
+    <string name="company_name">Gagarinov</string>
+    <string name="studio">Studio</string>
+    <string name="title">MOVIES TO WATCH TODAY</string>
+</resources>
